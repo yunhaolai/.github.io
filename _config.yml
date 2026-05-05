@@ -7,56 +7,20 @@
 
 # Site Settings
 title                    : "Lai Yunhao | Academic Pearson"
-description              : "Focusing on Ecohydrology ;Hydrological Models；Climate Change；Remote Sensing"
-repository               : "rayeren/rayeren.github.io"
-google_scholar_stats_use_cdn : true
+description              : "Focusing on Ecohydrology   Climate Change  Remote Sensing"
 
-# google analytics
-google_analytics_id      : G-SWFCX99KQZ
-
-# SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
   name             : "Lai Yunhao"
   avatar           : "images/3ccb0865d7fa2c921cb19913ac3c9916.jpg"
-  bio              : ""
   location         : "Kunming Yunnan"
-  employer         : "State Key Laboratory of Water Cycle and Water Security, Hohai University, Nanjing 210024, China"
-  pubmed           : 
+  employer         : "Hohai University, Nanjing 210024, China"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=SlWvgSQAAAAJ"
   email            : "lai_hydrology@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "yunhaolai"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0009-0006-0755-7639"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
