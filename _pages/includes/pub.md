@@ -35,45 +35,9 @@ Honglei Tang,  **Yunhao Lai***✉,  Cun Zhan,  Zheng Lu,  Qihua Ran
 
 
 
-## 👄 TalkingFace & Avatar
+# 📚 Selected Research Papers 📚
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/real3d.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+My list of all scientific research results is as follows：
 
-[Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://openreview.net/forum?id=7ERQPyR2eb), Zhenhui Ye, Tianyun Zhong, Yi Ren, et al. <span style="color:red">(Spotlight)</span> [**Project**](https://real3dportrait.github.io/) | [**Code**](https://github.com/yerfor/Real3DPortrait)
-</div>
-</div>
-
-- `NeurIPS 2024` [MimicTalk: Mimicking a Personalized and Expressive 3D Talking Face in Minutes](https://proceedings.neurips.cc/paper_files/paper/2024/hash/034cd49870f1cc253fc08686049ae7eb-Abstract-Conference.html), Zhenhui Ye, Tianyun Zhong, **Yi Ren**, et al.
-- `ACM-MM 2025` [UniTalker: Conversational Speech-Visual Synthesis](https://dl.acm.org/doi/abs/10.1145/3746027.3755502), Yifan Hu, Rui Liu, **Yi Ren**, Xiang Yin, Haizhou Li
-- `arXiv 2025` [HumanDiT: Pose-guided Diffusion Transformer for Long-form Human Motion Video Generation](https://arxiv.org/abs/2502.04847), Qijun Gan, **Yi Ren**, et al.
-- `arXiv 2025` [InfinityHuman: Towards Long-Term Audio-Driven Human](https://arxiv.org/abs/2508.20210), Xinran Li, Peiqi Xie, **Yi Ren**, et al.
-- `ICLR 2023` [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD), Zhenhui Ye, Ziyue Jiang, **Yi Ren**, et al.
-- `AAAI 2024` [AMD: Autoregressive Motion Diffusion](https://arxiv.org/abs/2305.09381), Bo Han, Hao Peng, Minjing Dong, **Yi Ren**, et al.
-- ``AAAI 2022`` [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, et al. \| [![](https://img.shields.io/github/stars/Dianezzy/ParaLip?style=social&label=ParaLip Stars)](https://github.com/Dianezzy/ParaLip)
-- ``AAAI 2022`` [Flow-based Unconstrained Lip to Speech Generation](https://ojs.aaai.org/index.php/AAAI/article/view/19966), Jinzheng He, Zhou Zhao, **Yi Ren**, et al.
-- ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, et al.
-
-## 📚 Machine Translation 
-- `Interspeech 2024` [A Unit-based System and Dataset for Expressive Direct Speech-to-Speech Translation](), Ao Min, Chenxu Hu, **Yi Ren**, Hai Zhao
-- ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
-- `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
-- ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/uwspeech/)
-- ``IJCAI 2020`` [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), Jinglin Liu, **Yi Ren**, Xu Tan, et al.
-- ``ACL 2020`` [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
-- ``ACL 2020`` [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
-- ``ICLR 2019`` [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, et al.
-
-
-## 🎼 Music & Dance Generation 
-- `CVM 2024` [Dance2MIDI: Dance-driven Multi-instrument Music Generation](), Bo Han, Yuheng Li, Yixuan Shen, **Yi Ren**, Fei Han
-- ``IEEE TMM`` [SDMuse: Stochastic Differential Music Editing and Generation via Hybrid Representation](https://ieeexplore.ieee.org/document/10149095), Chen Zhang, Yi Ren, Kejun Zhang, Shuicheng Yan.
-- ``AAAI 2021`` [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, et al.
-- ``ACM-MM 2020`` <span style="color:red">(Oral)</span> [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, et al. \| [**Project**](https://speechresearch.github.io/popmag/)
-
-## 🧑‍🎨 Generative Model
-- ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
-
-## Others
-- `NeurIPS 2023` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
-- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+- 🍎``Ecological Indicators 2025`` [Evaluating the cumulative and time-lag effects of vegetation response to drought in the Lancang-Mekong River basin](https://doi.org/10.1016/j.ecolind.2025.114113) **Yunhao Lai**,  Honglei Tang,  Cun Zhan,  Songbai Hong,  Qihua Ran
+- 🍎``Journal of Hydrology: Regional Studies 2025`` [Spatiotemporal changes of the water conservation function in the six major river basins in Yunnan Province, Southwest China](https://doi.org/10.1016/j.ejrh.2025.103073) Honglei Tang,  **Yunhao Lai***✉,  Cun Zhan,  Zheng Lu,  Qihua Ran
