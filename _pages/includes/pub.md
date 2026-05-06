@@ -20,7 +20,6 @@ Honglei Tang,  **Yunhao Lai***✉,  Cun Zhan,  Zheng Lu,  Qihua Ran
 
 **Citations：1**
 - Patterns and drivers of water conservation in mountainous regions with heterogeneous environments remain poorly understood. In this study, we explored spatiotemporal dynamics of water conservation in the six basins from 2000 to 2023. The InVEST model was used to simulate water yield, with trend and variability analyses characterizing temporal and spatial patterns. Correlation analysis further evaluated the roles of climate, soil, vegetation, and human activities.
-- 
 </div>
 </div>
 
