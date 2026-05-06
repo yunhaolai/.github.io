@@ -18,7 +18,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Spatiotemporal changes of the water conservation function in the six major river basins in Yunnan Province, Southwest China](https://doi.org/10.1016/j.ejrh.2025.103073) \\
-Honglei Tang Yunhao Lai aCun Zhan aZheng Lu aQihua Ran b
+Honglei Tang,  **Yunhao Lai***✉,  Cun Zhan,  Zheng Lu,  Qihua Ran
 
 **Citations：1**
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
