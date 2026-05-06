@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2026.09 - ?*, Master, State Key Laboratory of Water Cycle and Water Security, Hohai University, Nanjing🌊
+- *2026.09 - ❓ *, Master, State Key Laboratory of Water Cycle and Water Security, Hohai University, Nanjing🌊
 - *2023.09 - 2026.06*, Undergraduate, Hydrology and Water Resources , Kunming University of Science and Technology, Kunming🌸
 - *2019.09 - 2023.06*, College of Hydrology and Water Resources, Hohai University, Nanjing💧
 
