@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lai Yunhao | Academic Pearson"
+title                    : "Lai Yunhao | Academic Homepage"
 description              : "Focusing on Ecohydrology; Hydrological Models; Climate Change; Remote Sensing."
 repository               : "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  WeChat           : "Patience-blue1003"
   google_plus      :
   keybase          :
   instagram        :
